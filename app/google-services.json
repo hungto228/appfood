@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772250557888",
+    "firebase_url": "https://appfood-bcdf0.firebaseio.com",
+    "project_id": "appfood-bcdf0",
+    "storage_bucket": "appfood-bcdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772250557888:android:c1bd2bcfdbdee2a2bd7c25",
+        "android_client_info": {
+          "package_name": "com.example.phantom_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772250557888-8p0bkknhtv3o94sjrciof0ou1qknvfc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmo2Osp-7Ap0EJssEQhsiWFzlS4RMec5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772250557888-8p0bkknhtv3o94sjrciof0ou1qknvfc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
